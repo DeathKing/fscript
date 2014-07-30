@@ -1,11 +1,33 @@
 # FSCRIPT
 
-Fscript is a bundle of FSL script. You can check out the FSL license in LICENSE file.
+fscript是一系列遵守FSL协议的脚本的合称。你可以从LICENSE文件中获得自由脚本协议全文。
 
-## Version of RGSS
+## 涵盖的RGSS版本
 
-Fscript covers RGSS1 and RGSS2 scripts by now, and will support RGSS3 script then.
+fscript现已包含RGSS1、RGSS2、RGSS3三个版本。
 
-## Join Fscript
+## 加入我们
 
-Just fork and make a pull request!
+```ruby
+fork and send(:pull_request)
+```
+
+# 自由脚本协议
+
+当一份脚本以以下任何方式引用本协议时，便被认为遵守FSL协议：
+
+1. 通过使用自由脚本协议或Free Script License或FSL等字符；
+2. 通过摘录FSL声明；
+3. 通过附带FSL协议全文；
+
+遵守FSL协议的脚本使用受限于以下条款：
+
+1. **非强制性**。只有原作者能决定是否遵循FSL协议。而其余任何个人、组织在未经脚本原作者授权下不能以任何形式和方式强制将脚本加入FSL。版权仍属于原作者。
+2. **自由性**。你可以在遵守本协议的前提下自由使用、修改、传播、二次发行遵循FSL的脚本，也可以用于商业活动中。
+3. **不排除性**。若无特殊说明，FSL协议默认采取第2条。但原作者仍可申明“禁止二次发行”和“禁止用于商业”等。
+4. **继承性**。遵守FSL协议的脚本的二次发行版本和翻译版本都应该遵守FSL协议，且不能随意删改作者信息、授权信息等内容。
+5. **不干涉性**。遵循FSL协议的脚本可以与不遵循FSL协议的脚本共用。对于加密的工程，只需要提供遵循FSL协议脚本的信息公开。
+
+
+FSL 委员会  
+版权所有 2012-2013
